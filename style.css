@@ -1,5 +1,5 @@
 #hero{
-    background-image:linear-gradient(to bottom,
+    background-image:linear-gradient{to bottom,
             rgba(0, 0, 0, 0.2),
             /* Slightly dark at the top */
             rgba(0, 0, 0, 0.4) ), url('./images/bacground+image.jpg');
