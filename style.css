@@ -1,0 +1,32 @@
+#hero{
+    background-image:linear-gradient(to bottom,
+            rgba(0, 0, 0, 0.2),
+            /* Slightly dark at the top */
+            rgba(0, 0, 0, 0.4) ), url('/images/bacground+image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30% 70%;
+        
+}
+
+.white-color{
+    color:white;
+}
+
+.lato {
+    font-family: "Lato", sans-serif;
+    font-weight:light;
+    font-style: normal; 
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 60px;
+
+}
+
+.lead{
+    text-align: right;
+}
