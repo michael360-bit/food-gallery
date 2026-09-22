@@ -2,7 +2,7 @@
     background-image:linear-gradient(to bottom,
             rgba(0, 0, 0, 0.2),
             /* Slightly dark at the top */
-            rgba(0, 0, 0, 0.4) ), url("./images/background-image.jpg");
+            rgba(0, 0, 0, 0.4) ), #7c8049 url("./images/background-image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 30% 70%;
